@@ -1,0 +1,28 @@
+# CAD & 3D Modeling Temp Files
+*.dwg.bak
+*.bak
+*.tmp
+*.log
+*~
+
+# KiCad / EDA Temp Files
+*.kicad_prb
+*.bck
+*_autosave*
+*.kicad_pcb-bak
+*.sch-bak
+
+# Firmware Build Artifacts
+build/
+bin/
+obj/
+*.hex
+*.bin
+*.elf
+.pio/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
